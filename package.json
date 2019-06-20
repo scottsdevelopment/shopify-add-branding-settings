@@ -1,0 +1,21 @@
+{
+  "name": "@scottsdevelopment/shopify-add-branding-settings",
+  "version": "1.0.0",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "scripts": {
+    "install": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottsdevelopment/shopify-add-branding-settings.git"
+  },
+  "author": "Scott",
+  "bugs": {
+    "url": "https://github.com/scottsdevelopment/shopify-add-branding-settings/issues"
+  },
+  "homepage": "https://github.com/scottsdevelopment/shopify-add-branding-settings#readme",
+  "description": ""
+}
